@@ -1,3 +1,4 @@
+// eslint-disable-next-line prettier/prettier
 const express = require('express');
 const morgan = require('morgan');
 
